@@ -6,7 +6,7 @@ sleep(2)
 z = 0
 y = 6
 x = randint(0, 5)
-print(x)
+
 
 sleep(2)
 
